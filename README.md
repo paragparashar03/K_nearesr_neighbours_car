@@ -1,4 +1,4 @@
-# K_nearesr_neighbours_car
+# K_nearest_neighbours_car
 
 # To find accuracy of class values of car datat set via K_nearest_neighbour algo
 
