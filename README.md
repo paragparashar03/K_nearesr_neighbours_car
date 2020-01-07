@@ -10,15 +10,17 @@
 You could also use the link: 
 https://archive.ics.uci.edu/ml/datasets/Car+Evaluation
 
-# IMPORTANT:
-# If you choose to download the file from the UCI website yous must make the following change:
+
+# IMPORTANT:If you choose to download the file from the UCI website yous must make the following change:
 # Add the following line to the top of your file and click save:
-# buying,maint,door,persons,lug_boot,safety,class
+buying,maint,door,persons,lug_boot,safety,class
+
+
 
 # Attribute Information:
 
 # Class Values:
-# unacc, acc, good, vgood
+unacc, acc, good, vgood
 
 
 # Attributes:
